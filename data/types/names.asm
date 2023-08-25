@@ -35,6 +35,6 @@ ENDR
 .Ground:   db "BODEN@"
 .Rock:     db "GESTEIN@"
 .Bird:     db "VOGEL@"
-.Bug:      db "KÄFER@"
+.Bug:      db "INSEKT@"
 .Ghost:    db "GEIST@"
 .Dragon:   db "DRACHE@"

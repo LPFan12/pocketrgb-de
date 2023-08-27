@@ -3,7 +3,7 @@
 Der Sinn dieses Projektes ist es eine möglichst sinngemäße Übersetzung der originalen Spiele auf die Beine zu stellen. Es wäre für die Genauigkeit besser wenn man eine Romhack-Übersetzung der Originalen japanischen ROMs machen würde, allerdings habe ich momentan diese Möglichkeit nicht. Dies ist keine deutsche Lokalisierung von der englischen Pokemon Green-Rom, das ist ein seperater Romhack der direkt auf der englischen Pokemon Blue version basiert! Es steht jedem frei, es selbst zu builden und zu nutzen(Es hat Vorteile, da Bugs entfernt wurden). Klicke für weitere Informationen auf das Projekt von dem dieses kopiert wurde(Github zeigt es links oben an).
 
 
-Das Projekt generiert diese Roms:
+Falls ich nicht irgendwas kaputt mache wird dieses Projekt diese Roms generieren:
 
 * Pocket Monsters - Red Version (Canada, Japan) (SGB Enhanced).gbc 
 * Pocket Monsters - Green Version (Canada, Japan) (SGB Enhanced).gbc  

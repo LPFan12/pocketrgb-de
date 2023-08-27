@@ -1,21 +1,23 @@
 _OakAppearsText::
-	text "OHKIDO: Hey! Wait!"
-	line "Don't go out!@"
+	text "ORCHIDEE: Hey! Warte!"
+	line "Gehe dort nicht raus!@"
 	text_end
 
 _OakWalksUpText::
 	text "OHKIDO: It's"
-	line "unsafe! Wild"
-	cont "#MON live in"
-	cont "tall grass!"
+	line "unsafe! Wilde"
+	cont "#MON werden aus"
+	cont "dem hohen Gras"
+	cont "springen!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Wenn du eigene"
+	line "#MON hättest,"
+	cont "dann könntest"
+	cont "du kämpfen..."
+	cont "Ich habs!"
 
-	para "Here, come with"
-	line "me!"
+	para "Hier, komm mit"
+	line "mir mit!"
 	done
 
 _PalletTownText2::
@@ -50,9 +52,9 @@ _PalletTownText5::
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "<PLAYER>s Haus "
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text "<RIVAL>s Haus "
 	done

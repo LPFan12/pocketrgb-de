@@ -24,7 +24,7 @@ TrainerNames::
 	db "VOGELNUTZER@"
 	db "KARATEKOENIG@"
 	db "RIVAL1@"
-	db "PR.ORCHIDEE@"
+	db "LEHRER ORCHIDEE@"
 	db "CHIEF@"
 	db "FORSCHER AUF ABWEGEN@"
 	db "SAKAKI@"

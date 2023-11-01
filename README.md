@@ -15,13 +15,15 @@ Sowie diese durch Hilfe von DEBUG=1:
 * pocketblue_debug.gbc
 
 
-Dies sind die Roms die verwendet werden sollen:
+Dies sind die Roms die für später kommende static patches verwendet werden sollen:
 
 **Red**
 - Pokemon - Red Version (USA, Europe) (SGB Enhanced) `sha1: EA9BCAE617FDF159B045185467AE58B2E4A48B9A`
 
 **Green and Blue**
 - Pokemon - Blue Version (USA, Europe) (SGB Enhanced) `sha1: D7037C83E1AE5B39BDE3C30787637BA1D4C48CE2`
+
+Es ist für irgendwann in der Zukunft eine Version geplant die gröbere Gamedesign-Probleme fixt. Allerdings ist es unbekannt wann dies in die Realität umgesetzt werden kann und ob es auch geplant ist Rot, Blau und Gelb "zu fixen". Falls dies jemals Realität wird, dann werden Dokumentationen für die Änderungen in jedem Spiel erstellt.
 
 ## Setting up your own
 
